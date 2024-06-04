@@ -2,7 +2,7 @@ function App(){
   return(
    <>
       <h1 className="text-center text-blue">
-          APP
+         INICIO APP
       </h1>
    </>
 
